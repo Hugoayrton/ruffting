@@ -35,3 +35,11 @@ aside{
     font-size: 2rem;
     z-index:10 ;
 }
+p1{
+    position: absolute;
+    top: 70%;
+    left: 15%;
+    color: var(--fontprimary);
+    font-size: 2rem;
+    background-color: #AFC2D5;
+}
