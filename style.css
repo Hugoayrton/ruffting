@@ -30,9 +30,8 @@ aside{
 .aside h1{
     position: absolute;
     top: 15%;
-    left: 25%;
+    left: 35%;
     color: var(--fontprimary);
     font-size: 2rem;
     z-index:10 ;
 }
-p1{}
